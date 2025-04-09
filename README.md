@@ -37,6 +37,7 @@ class Developer:
 
 me = Developer()
 me.say_hi()
+```
 
 <h2 align="center">🚀 Tech Stack & Tools</h2> <div align="center">
 🧠 Languages
